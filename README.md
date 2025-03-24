@@ -196,6 +196,6 @@ As the AI landscape continues to evolve, the value of integrated solutions like 
 
 For most users—from busy professionals to students to creative teams—Monica AI offers the ideal balance of comprehensive capabilities, user-friendly design, and reasonable pricing. While specialized tools may edge it out in specific niches, few can match its breadth of features as an all-in-one AI app.
 
-[Try Monica AI free today →](https://fas.st/t/NYpWVmNt))
+[Try Monica AI free today →](https://fas.st/t/NYpWVmNt)
 
 *Whether you're writing content, researching topics, generating images, or creating podcasts, Monica AI provides the tools you need in one cohesive platform. Experience the productivity boost that comes from having your entire AI toolkit in a single, accessible interface.*
