@@ -18,6 +18,27 @@ With the free plan, you can:
 
 The free plan provides standard image generation speed, which is perfect for casual exploration of ring designs and concepts.
 
+## Step-by-Step Guide to Using the Engagement Ring Generator
+
+Follow these simple steps to start creating your custom engagement ring designs:
+
+1. **Access the model**: Click on [this link](https://www.shakker.ai/modelinfo/7edced13fd2a4bc494d6b12192aa8676) to go directly to the engagement ring generator.
+
+2. **Create a free account**: Sign up quickly using your Gmail, GitHub, or Discord account. This takes just a few seconds and gives you immediate access to your free daily tokens.
+
+3. **Run the model**: Click the "Run Model" button to open the design interface.
+
+4. **Set up your generation parameters**: 
+   - Ensure the **Base Model** is set to "Flux.1 Model Family_Black Forest" (marked as area 1 in the image)
+   - Verify that the **Enhanced Model (LoRA)** is set to the engagement ring model (marked as area 2)
+   - Enter your prompt in the text field following our guidelines below (marked as area 3)
+
+5. **Generate your design**: Click the "Generate" button (marked as area 4) and watch as your custom engagement ring design is created before your eyes!
+
+The examples shown in the images were created using the exact prompt: "*engagement_ring, An elegant engagement ring with cluster of seven small round diamonds forming a flower pattern in yellow gold setting, art deco inspired filigree details, resting on an antique wooden box*"
+
+![creating ring](https://github.com/user-attachments/assets/ad1fa638-2208-4d7a-ba63-fe259d841021)
+
 ## Creating the Perfect Ring Design: Understanding the Parameters
 
 To get the most out of Shakker AI's engagement ring generator, you need to understand the key elements that make up a beautiful ring design. Here's what you should include in your prompts:
@@ -79,13 +100,15 @@ These elements add uniqueness to your design:
 
 ## Crafting the Perfect Prompt
 
-To get the best results from Shakker AI, use this general template for your prompts:
+To get the best results from the AI model, use this general template for your prompts:
 
 ```
 engagement_ring, An elegant engagement ring with [diamond shape] cut diamond in [metal] setting, [additional details]
 ```
 
 **engagement_ring** is the model's trigger word.
+
+
 
 ### Example Prompts for Stunning Results
 
@@ -113,6 +136,9 @@ engagement_ring, An elegant engagement ring with [diamond shape] cut diamond in 
    ```
    engagement_ring, An elegant engagement ring with marquise cut diamond in white gold setting, with channel-set diamonds along the band and intricate milgrain detailing
    ```
+
+![An elegant engagement ring with round cut diamond in elevated crown setting,open gallery with ornate detailing,mixed metal band combining platinum and rose gold in braided pattern,captured in macro ph](https://github.com/user-attachments/assets/dcabe593-772b-4e03-a4e6-dabe8ff9b257)
+
 
 ### Additional Creative Prompt Ideas
 
@@ -166,6 +192,9 @@ engagement_ring, An elegant engagement ring with [diamond shape] cut diamond in 
     engagement_ring, An elegant engagement ring with asscher cut diamond in sleek full bezel setting, titanium band with hidden diamond melee under the setting, ring standing vertically balanced on its edge on reflective glass surface
     ```
 
+![An elegant engagement ring with pear cut diamond nestled in leaf-shaped rose gold setting,vine pattern band with tiny embedded emeralds,displayed on natural moss surface, (1)](https://github.com/user-attachments/assets/8826847f-b079-4399-9e2b-9f3aeee6163f)
+
+
 ## Maximizing Your Free Tokens
 
 To make the most of your 200 free daily tokens:
@@ -202,6 +231,9 @@ Once you've generated your perfect engagement ring designs, you can:
 - Get feedback from friends before making a purchase
 - Explore styles you might not have considered before
 - Create a visual wishlist of designs you love
+
+![shakker pricing](https://github.com/user-attachments/assets/04c05db0-e491-4149-be11-266fd44f3364)
+
 
 ## Conclusion
 
